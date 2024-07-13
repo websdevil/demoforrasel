@@ -1,0 +1,98 @@
+.video-js {
+    width: 300px;
+    height: 150px;
+}
+
+.vjs-fluid {
+    padding-top: 56.25%
+}
+body {
+    font-family: "Quicksand", sans-serif
+}
+
+body {
+    background-color: #0a0909
+}
+
+header.main .hbox,
+#contenedor,
+footer.main .fbox {
+    max-width: 1500px
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a,
+.home-blog-post .entry-date .date,
+.top-imdb-item:hover>.title a,
+.module .content .items .item .data h3 a:hover,
+.head-main-nav ul.main-header li:hover>a,
+.login_box .box a.register {
+    color: #e50914
+}
+
+.dtsingle .content {
+    width: 100%
+}
+
+.starstruck .star-on-png:before {
+    color: #e50914
+}
+
+#dt_contenedor {
+    background-color: #0a0909
+}
+
+#contenedor {
+    margin: 100px auto 0;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        margin: 80px auto 0;
+    }
+}
+
+.modal-content {
+    position: relative;
+    border: 1px solid #999;
+    border: 10px solid rgba(255, 255, 255, 0.2);
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+    box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+    background: #222;
+}
+
+.mlogo {
+    text-align: center;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 75px;
+    color: #fff;
+}
+
+.mlogo p {
+    margin: 0 0 10px;
+}
+
+.over2 img {
+    max-width: 30px;
+}
+
+.modal-header {
+    margin-top: 10px;
+    padding: 0;
+    border-bottom: 0 solid transparent;
+}
+
+#reg_form h4,
+#reg_form .btn,
+#reg_forms h4,
+#reg_forms .btn {
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
+}
